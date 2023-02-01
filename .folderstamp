@@ -34,9 +34,9 @@ IPFS hash:
   Size: 472       	Blocks: 0          IO Block: 4096   directory
 Device: 812h/2066d	Inode: 124472      Links: 1
 Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-01-31 21:05:23.869703000 -0300
-Modify: 2023-01-31 21:05:18.876060100 -0300
-Change: 2023-01-31 21:05:18.876060100 -0300
+Access: 2023-01-31 21:08:26.293154100 -0300
+Modify: 2023-01-31 21:08:26.290411000 -0300
+Change: 2023-01-31 21:08:26.290411000 -0300
  Birth: -
 IPFS hash: 
 ------------------------------
@@ -71,12 +71,12 @@ Change: 2023-01-31 21:01:55.494440700 -0300
 IPFS hash: 
 ------------------------------
   File: ./post-install.sh
-  Size: 63        	Blocks: 1          IO Block: 4096   regular file
-Device: 812h/2066d	Inode: 124490      Links: 1
+  Size: 45        	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 1328904     Links: 1
 Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-01-30 23:41:35.626954300 -0300
-Modify: 2023-01-30 22:33:45.020423500 -0300
-Change: 2023-01-30 22:33:45.111076500 -0300
+Access: 2023-01-31 21:09:14.730688900 -0300
+Modify: 2023-01-31 21:09:14.302472600 -0300
+Change: 2023-01-31 21:09:14.731047200 -0300
  Birth: -
 IPFS hash: 
 ------------------------------
