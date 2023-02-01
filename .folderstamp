@@ -1,0 +1,112 @@
+This folder: /usr/bin
+
+  File: ./app-data
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124475      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 15:48:19.555969800 -0300
+Modify: 2022-12-24 21:38:25.679400100 -0300
+Change: 2023-01-30 15:48:09.547590900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./backup.sh
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 812h/2066d	Inode: 124042      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-08 19:07:40.203961700 -0300
+Modify: 2023-01-08 19:07:40.203961700 -0300
+Change: 2023-01-30 15:48:03.317790300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./gambiar
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124491      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-31 20:59:33.379902200 -0300
+Modify: 2023-01-31 13:12:38.809398000 -0300
+Change: 2023-01-31 13:12:38.809398000 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./git
+  Size: 472       	Blocks: 0          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124472      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-31 21:05:23.869703000 -0300
+Modify: 2023-01-31 21:05:18.876060100 -0300
+Change: 2023-01-31 21:05:18.876060100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./keyboard-layouts
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124485      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 15:48:19.555552700 -0300
+Modify: 2022-12-24 20:52:02.981684400 -0300
+Change: 2023-01-30 15:48:09.554818300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./post-install_custom
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124046      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 15:48:19.558512100 -0300
+Modify: 2023-01-28 18:52:56.363734300 -0300
+Change: 2023-01-30 15:48:07.227077700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./post-install_custom.sh
+  Size: 930       	Blocks: 8          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 1328876     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-31 21:02:30.645314400 -0300
+Modify: 2023-01-31 21:01:55.220810400 -0300
+Change: 2023-01-31 21:01:55.494440700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./post-install.sh
+  Size: 63        	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 124490      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 23:41:35.626954300 -0300
+Modify: 2023-01-30 22:33:45.020423500 -0300
+Change: 2023-01-30 22:33:45.111076500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./restore.sh
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 812h/2066d	Inode: 124043      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-08 19:07:48.820350700 -0300
+Modify: 2023-01-08 19:07:48.820350700 -0300
+Change: 2023-01-30 15:48:03.322468600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 65        	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 124147      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 23:41:35.626283200 -0300
+Modify: 2023-01-17 23:16:08.357611200 -0300
+Change: 2023-01-30 15:48:07.229057100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./user-folder
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 812h/2066d	Inode: 124213      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 15:48:19.556764200 -0300
+Modify: 2022-12-24 19:14:20.710242200 -0300
+Change: 2023-01-30 15:48:09.459408500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

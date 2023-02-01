@@ -1,0 +1,32 @@
+This folder: /usr/bin
+
+  File: ./custom.sh
+  Size: 29        	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 124474      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 22:32:38.435811000 -0300
+Modify: 2023-01-21 12:03:36.357396600 -0300
+Change: 2023-01-30 15:48:09.476156300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./git.sh
+  Size: 26        	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 1328878     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-31 21:05:57.615446200 -0300
+Modify: 2023-01-31 21:05:18.328339300 -0300
+Change: 2023-01-31 21:05:18.876001400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./id.sh
+  Size: 142       	Blocks: 1          IO Block: 4096   regular file
+Device: 812h/2066d	Inode: 124473      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-30 22:32:43.183622300 -0300
+Modify: 2022-12-24 19:15:40.644759100 -0300
+Change: 2023-01-30 15:48:09.468486100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
